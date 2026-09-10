@@ -50,7 +50,3 @@ Al igual que en los otros trabajos, deberías subir tu solución a GitHub. Podé
 
 Ya sabés que podés subir tu solución tantas veces como quieras. **Es recomendable hacer commits chicos y frecuentes**, en vez de un solo gran commit con todo lo que se pedía resolver.
 
-## Atención!
-
-Este TP-0 **no** se entrega, así que no creen un issue. Es tan sólo para que puedan probar su instalación de Wollok.
-
